@@ -19,6 +19,12 @@
                         <span>Tambah Data </span>
                     </a>
                 </li>
+                <li class="logout">
+                    <a href="<?= BASEURL ?>">
+                        <i class="fas fa-sign-out-alt"></i>
+                        <span>Logout</span>
+                    </a>
+                </li>
             </ul>
         </div>
 
